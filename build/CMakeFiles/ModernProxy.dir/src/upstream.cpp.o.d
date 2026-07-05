@@ -1,7 +1,7 @@
 CMakeFiles/ModernProxy.dir/src/upstream.cpp.o: \
- /home/chaste/workspace/ModernProxy/src/upstream.cpp \
+ /home/chaste/github/ModernProxy/src/upstream.cpp \
  /usr/include/stdc-predef.h \
- /home/chaste/workspace/ModernProxy/src/upstream.h \
+ /home/chaste/github/ModernProxy/src/upstream.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \
@@ -134,10 +134,9 @@ CMakeFiles/ModernProxy.dir/src/upstream.cpp.o: \
  /usr/include/x86_64-linux-gnu/asm/sockios.h \
  /usr/include/asm-generic/sockios.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
- /usr/include/netinet/in.h \
+ /usr/include/netdb.h /usr/include/netinet/in.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/in.h /usr/include/netdb.h \
- /usr/include/rpc/netdb.h \
+ /usr/include/x86_64-linux-gnu/bits/in.h /usr/include/rpc/netdb.h \
  /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h \
  /usr/include/x86_64-linux-gnu/bits/netdb.h /usr/include/fcntl.h \

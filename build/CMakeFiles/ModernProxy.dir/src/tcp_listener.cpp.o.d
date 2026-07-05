@@ -1,7 +1,7 @@
 CMakeFiles/ModernProxy.dir/src/tcp_listener.cpp.o: \
- /home/chaste/workspace/ModernProxy/src/tcp_listener.cpp \
+ /home/chaste/github/ModernProxy/src/tcp_listener.cpp \
  /usr/include/stdc-predef.h \
- /home/chaste/workspace/ModernProxy/src/tcp_listener.h \
+ /home/chaste/github/ModernProxy/src/tcp_listener.h \
  /usr/include/x86_64-linux-gnu/sys/socket.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \

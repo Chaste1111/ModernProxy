@@ -1,7 +1,7 @@
 CMakeFiles/ModernProxy.dir/src/proxy_context.cpp.o: \
- /home/chaste/workspace/ModernProxy/src/proxy_context.cpp \
+ /home/chaste/github/ModernProxy/src/proxy_context.cpp \
  /usr/include/stdc-predef.h \
- /home/chaste/workspace/ModernProxy/src/proxy_context.h \
+ /home/chaste/github/ModernProxy/src/proxy_context.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \
@@ -118,7 +118,9 @@ CMakeFiles/ModernProxy.dir/src/proxy_context.cpp.o: \
  /usr/include/c++/15/bits/memory_resource.h /usr/include/c++/15/cstddef \
  /usr/include/c++/15/bits/uses_allocator.h \
  /usr/include/c++/15/bits/uses_allocator_args.h /usr/include/c++/15/tuple \
- /usr/include/unistd.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /home/chaste/github/ModernProxy/src/http_parser.h \
+ /home/chaste/github/ModernProxy/src/http_request.h /usr/include/unistd.h \
+ /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/confname.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \

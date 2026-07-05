@@ -1,5 +1,4 @@
 #pragma once
-#include "http_parser.h"
 #include "proxy_context.h"
 #include <unordered_map>
 
@@ -12,11 +11,11 @@ public:
     void handle_write(int fd);
 
 private:
-    void on_client_read(int fd);
+    void on_client_read(int fd, ProxyContext* ctx);
     void on_upstream_read(int fd, ProxyContext* ctx);
     void on_upstream_write(int fd, ProxyContext* ctx);
+    void cleanup(ProxyContext* ctx);
 
-    HttpParser parser_;
     EventLoop& loop_;
     std::unordered_map<int, ProxyContext*> contexts_;
 };

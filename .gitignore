@@ -1,2 +1,13 @@
+# 编译产物
+build/
+ModernProxy
+
+# IDE / 编辑器
 .vscode/
-.build/
+.idea/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db

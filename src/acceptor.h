@@ -1,16 +1,11 @@
 #pragma once
-#include<functional>
 
-class Acceptor
-{
-   public:
-    using Callback=std::function<void(int fd)>;
-
-   Acceptor(int listen_fd,int epoll_fd,Callback cb);
+class Acceptor {
+public:
+    Acceptor(int listen_fd, int epoll_fd);
     void handle_accept();
 
-   private:
+private:
     int listen_fd_;
     int epoll_fd_;
-    Callback cb_;
 };

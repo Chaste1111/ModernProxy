@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/chaste/workspace/ModernProxy/build/cmake_install.cmake"
+		"/home/chaste/github/ModernProxy/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

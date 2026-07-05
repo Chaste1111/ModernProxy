@@ -1,7 +1,6 @@
 CMakeFiles/ModernProxy.dir/src/config.cpp.o: \
- /home/chaste/workspace/ModernProxy/src/config.cpp \
- /usr/include/stdc-predef.h \
- /home/chaste/workspace/ModernProxy/src/config.h \
+ /home/chaste/github/ModernProxy/src/config.cpp \
+ /usr/include/stdc-predef.h /home/chaste/github/ModernProxy/src/config.h \
  /usr/include/c++/15/cstring /usr/include/c++/15/bits/version.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \

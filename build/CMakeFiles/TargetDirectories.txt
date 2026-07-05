@@ -1,3 +1,3 @@
-/home/chaste/workspace/ModernProxy/build/CMakeFiles/ModernProxy.dir
-/home/chaste/workspace/ModernProxy/build/CMakeFiles/edit_cache.dir
-/home/chaste/workspace/ModernProxy/build/CMakeFiles/rebuild_cache.dir
+/home/chaste/github/ModernProxy/build/CMakeFiles/ModernProxy.dir
+/home/chaste/github/ModernProxy/build/CMakeFiles/edit_cache.dir
+/home/chaste/github/ModernProxy/build/CMakeFiles/rebuild_cache.dir
